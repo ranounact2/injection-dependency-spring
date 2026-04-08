@@ -1,0 +1,2 @@
+net.badi.ext.DAOImplV2
+net.badi.metier.MetierImpl
